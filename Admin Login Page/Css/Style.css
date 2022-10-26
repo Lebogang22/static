@@ -1,0 +1,173 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 1000px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height:90px;
+    width: 100%;
+    background-color: #FF5D5D; 
+}
+
+ul{
+    display:flex;
+    list-style-type: none;
+    width: 100%;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+    margin-top: 25px;
+    
+}
+
+
+.search{
+    margin-right: 20px;
+}
+
+.border{
+    background-color: #FF8C8C;
+    height: 600px;
+    width: 550px;
+    margin-left: 480px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+.adminlogin{
+    margin-left: 490px;
+    margin-top: -550px;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* 
+.form1{
+    border: solid;
+    padding-bottom: 45px;
+    
+} */
+
+.user{
+    background-color: #FFC3C3;
+    height: 50px;
+    width: 500px;
+    border-radius: 30px;
+    border: 1px solid black;
+    
+}
+/* 
+.conn{
+    border-left: 10px;
+    border-top: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+} */
+
+.firstbox{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.pass{
+    background-color: #FFC3C3;
+    height: 50px;
+    width: 500px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+.secondbox{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+/* 
+.checkbox{
+    height: 150px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 380px;
+}
+
+.remember{
+    margin-top: -210px;
+    margin-left: 510px;
+    
+} */
+
+.Login{
+    background-color: #FF5D5D;
+    height: 50px;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 500px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+
+
+
+.box-5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF5D5D;
+    margin-top: 120px;
+    height: 270px;
+    width: 100%;
+    color: white;
+    margin-top: 190px;
+}
+
+span {
+     font-size: x-large;
+    
+}
+
+.foot {
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+}
+
+.email {
+    width: 200px;
+    margin-right:75px ;
+}
+
+.subscribe {
+
+    width: 208px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+    border-color: red;
+}
+
+.last-text {
+    background-color: #FF5D5D;
+    height: 60px;
+
+}
+
+.hj{
+    margin-left: 150px;
+}

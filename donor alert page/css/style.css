@@ -1,0 +1,121 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 1000px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height:90px;
+    width: 100%;
+    background-color: #FF5D5D; 
+}
+
+ul{
+    display:flex;
+    list-style-type: none;
+    width: 100%;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+    margin-top: 25px;
+    
+}
+
+
+
+.bell{
+   display: flex;
+   justify-content: end;
+   padding: 70px;
+   margin-top: -50px;
+}
+
+.rect{
+    background-color: #FF8C8C;
+    height: 100px;
+    margin-top: -15px;
+}
+
+
+.message{
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: -55px;
+    margin-left: 630px
+}
+
+.mess{
+    color: gray;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 450px;
+    margin-left: 600px
+}
+
+
+.box-5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF5D5D;
+    margin-top: 120px;
+    height: 250px;
+    width: 100%;
+    color: white;
+}
+
+span {
+     font-size: x-large;
+    
+}
+
+.foot {
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+}
+
+.email {
+
+    margin-right:75px ;
+}
+
+.subscribe {
+
+    width: 208px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+    border-color: red;
+}
+
+.last-text {
+    background-color: #FF5D5D;
+    height: 60px;
+    margin-top: -60px;
+    margin-left: 0px;
+
+}
+
+.hj{
+    margin-left: 150px;
+}

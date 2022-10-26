@@ -1,0 +1,313 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height:90px;
+    width: 100%;
+    background-color: #FF5D5D; 
+}
+
+ul{
+    display:flex;
+    list-style-type: none;
+    width: 100%;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+
+.place{
+    margin-right: 20px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: rgb(128, 0, 96);
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+    margin-top: 25px;
+    
+}
+
+
+/* form starts here */
+
+.form{
+    display: flex;
+    flex-direction: column;
+    /* background-color: blue; */
+    align-items: center;
+    margin-top: 35px;
+    
+}
+
+form input{
+    width: 100%;
+}
+
+
+.border{
+    height: 600px;
+    width: 1100px; 
+    background-color: #FF8C8C;
+    border: solid 1px black;
+    margin-left: 210px;
+    margin-top: 150px;
+    border-radius: 30px;
+}
+
+.reg{
+    margin-top:-600px;
+    margin-left: 230px;
+    font-weight: bolder;
+}
+
+.lets{
+    margin-left: 230px;
+    margin-top: 50Px;
+    font-weight: bolder;
+}
+
+.sub{
+    border-radius: 30px;
+    margin-left: 10px;
+    background-color:#FF5D5D;
+    margin-bottom: 100px;
+    width: 100px;
+}
+
+.for{
+    /* background-color: #FF5D5D; */
+    border-radius: 30px;
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 35px;
+}
+
+.for label{
+    margin-left: 30px;
+}
+
+.lab{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+.labs{
+    margin-left: 300px;
+}
+
+.labss{
+    margin-left: 300px;
+}
+
+.lbs{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.div{
+    margin-left: 50px;
+}
+
+.divs{
+    margin-left: 50px;
+}
+
+.names-con{
+    /* background-color: cadetblue; */
+    width: 45%;
+}
+
+.names-con input{
+    margin: 0;
+    border-radius: 30px;
+    border: 1px solid black;
+    background-color: #FFC3C3;
+    height: 45px;
+}
+
+.names{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.mother{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.form1{
+    /* background-color: crimson; */
+    width: 50%;
+}
+
+.form1 input{
+    border-radius: 30px;
+    border: 1px solid black;
+    width: 400px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    height: 45px;
+}
+
+.form2{
+    /* background-color: darkorange; */
+  width: 50%;
+}
+
+.form2 input{
+    border-radius: 30px;
+    border: 1px solid black;
+    /* /* margin-left: 450px; */
+    margin-bottom: 50px;
+    width: 400px;
+    margin-left: 50px;
+    height: 45px;
+}
+
+.fname{
+    margin-left: 100px;
+}
+
+.firstbox{
+
+}
+
+
+.forr label{
+    display: block;
+}
+
+
+.conname input{
+    margin: 0;
+    border-radius: 30px;
+}
+
+.namess{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+
+.submit{
+    height: 25px;
+    width: 100px;
+    background-color: #FF5D5D;
+    border-radius: 30px;
+    border:1px solid black;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.fname{
+    background-color: #FFC3C3;
+}
+
+.lname{
+    background-color: #FFC3C3;
+}
+
+.role{
+    background-color: #FFC3C3;
+}
+
+.email{
+    background-color: #FFC3C3;
+}
+
+.division{
+    background-color: #FFC3C3;
+}
+
+.department{
+    background-color: #FFC3C3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box-5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF5D5D;
+    margin-top: 100px;
+    height: 270px;
+    width: 100%;
+    color: white;
+}
+
+span {
+     font-size: x-large;
+    
+}
+
+.foot {
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+}
+
+.email {
+
+    margin-right:75px ;
+}
+
+.subscribe {
+
+    width: 208px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+    border-color: red;
+}
+
+
+.hj{
+    margin-left: 150px;
+}
+
+

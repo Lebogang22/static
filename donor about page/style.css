@@ -1,0 +1,124 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 400px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height:90px;
+    width: 100%;
+    background-color: #FF5D5D; 
+}
+
+ul{
+    display:flex;
+    list-style-type: none;
+    width: 100%;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: rgb(128, 0, 96);
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+    margin-top: 25px;
+    
+}
+
+.search{
+    margin-right: 25px;
+}
+
+
+.Abou{
+    margin-left: 250px;
+    margin-top: 100px;
+    font-size: larger;
+}
+
+.social{
+    text-align: justify;
+    width: 600px;
+    margin-left: 250px;
+}
+
+.vision{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.picc{
+   margin-left: 900px;
+   margin-top: -145px;
+}
+
+.mission{
+    margin-left: 250px;
+}
+
+.quality{
+    margin-left: 250px;
+    margin-bottom: -200px;
+}
+.img{
+    margin-left: 245px;
+    margin-top: -460px;
+}
+
+.box-5{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF5D5D;
+    margin-top:500px;
+    height: 270px;
+    width: 100%;
+    color: white;
+}
+
+span {
+     font-size: x-large;
+    
+}
+
+.foot {
+
+    margin-top: 50px;
+
+    margin-left: 50px;
+}
+
+.email {
+
+    margin-right:75px ;
+}
+
+.subscribe {
+
+    width: 208px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    margin-top: 20px;
+    border-color: red;
+}
+
+
+.hj{
+    margin-left: 150px;
+}
